@@ -11,6 +11,6 @@
 </style>
 
 <p>
-<img width="45" height="45" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" style="float:left;width:45px;height:45px;">
+<img width="45" height="45" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="twitter" style="float:left;width:45px;height:30px;">
 @liloamaral  
 </p>
